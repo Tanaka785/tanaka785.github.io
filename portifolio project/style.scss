@@ -1,4 +1,22 @@
 body {
    padding:10px;
    margin:10px;
+   text-align: center;
+   #container {
+        .row {
+            margin-bottom: 50px;
+            .col-12 {
+                h1 {
+                    font-size:14px;
+                    b {
+                        color:brown;
+                    }
+                }
+                img {
+                    border:5px solid brown;
+                    border-radius: 20px;
+                }
+            }
+        }
+   }
 }

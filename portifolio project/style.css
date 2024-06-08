@@ -1,4 +1,18 @@
 body {
   padding: 10px;
   margin: 10px;
+  text-align: center;
+}
+body #container .row {
+  margin-bottom: 50px;
+}
+body #container .row .col-12 h1 {
+  font-size: 14px;
+}
+body #container .row .col-12 h1 b {
+  color: brown;
+}
+body #container .row .col-12 img {
+  border: 5px solid brown;
+  border-radius: 20px;
 }/*# sourceMappingURL=style.css.map */
